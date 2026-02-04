@@ -1,0 +1,7 @@
+json{
+    "name": "AntonMontana.SceneToolbar.Editor",
+    "rootNamespace": "AntonMontana.SceneToolbar",
+    "references": [],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": []
+}

@@ -1,0 +1,23 @@
+{
+  "name": "com.antonmontana.scene-toolbar",
+  "version": "1.0.0",
+  "displayName": "Scene Toolbar Dropdown",
+  "description": "Adds a scene selector dropdown to Unity's main toolbar for quick scene switching. Priority scenes from Assets/Scenes/ are shown at the top.",
+  "unity": "6000.3",
+  "author": {
+    "name": "AntonMontana",
+    "url": "https://github.com/AntonMontana"
+  },
+  "keywords": [
+    "scene",
+    "toolbar",
+    "editor",
+    "workflow",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonMontana/unity-top-bar-scene-loader.git"
+  },
+  "license": "MIT"
+}
